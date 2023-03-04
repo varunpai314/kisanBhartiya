@@ -11,7 +11,7 @@
 
 * Consumers will benefit from access to fresh, locally sourced produce at competitive prices, while also supporting sustainable and responsible farming practices.
 
-* Our revenue model will be based on taking a commission on sales made through the platform, as well as charging a subscription fee to farmers for access to our IoT and advisory services.
+* Our revenue model will be based on taking a commission on sales made through the platform, as well as charging a subscription fee/one-time purchase to farmers for access to our IoT and advisory services.
 
 * We will build a brand that emphasizes the importance of supporting local farmers and sustainable agriculture practices, and leverage social media to showcase the stories of farmers and their produce, as well as to promote the platform to consumers.
 
